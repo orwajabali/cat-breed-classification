@@ -1,6 +1,9 @@
 # 🐱 Cat Breed Classification — CNN vs. Feature Engineering
 
+<div align="center">
 ![](bristish_104.jpg)
+</div>
+
 <div align="center">
 
 | Approach | Method | Test Accuracy |
