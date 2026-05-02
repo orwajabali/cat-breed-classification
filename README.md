@@ -44,10 +44,10 @@ Answers this by building both pipelines in full, measuring them on the same data
 ![Model 1 Training Curves](model/model1_accuracy.png)
 *Baseline — clear overfitting, validation frozen at ~55%*
 
-![Improved Model Training Curves](model_accuracy.png)
+![Improved Model Training Curves](model/model_accuracy.png)
 *Improved — validation accuracy steadily rising to ~75%*
 
-![Predictions](model_predict.png)
+![Predictions](model/model_predict.png)
 *Sample predictions — 11/12 correct on unseen images*
 
 </div>
@@ -81,7 +81,7 @@ Answers this by building both pipelines in full, measuring them on the same data
 
 <div align="center">
 
-![Classifier Results](FE_results.png)
+![Classifier Results](model2/FE_results.png)
 
 </div>
 
@@ -95,7 +95,7 @@ Answers this by building both pipelines in full, measuring them on the same data
 
 <div align="center">
 
-![LightGBM Confusion Matrix](lgbm.png) ![XGBoost Confusion Matrix](XGB.png) ![LR Confusion Matrix](LR.png)
+![LightGBM Confusion Matrix](model2/lgbm.png) ![XGBoost Confusion Matrix](model2/XGB.png) ![LR Confusion Matrix](model2/LR.png)
 
 </div>
 
