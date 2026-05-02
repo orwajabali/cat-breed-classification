@@ -41,7 +41,7 @@ Answers this by building both pipelines in full, measuring them on the same data
 
 <div align="center">
 
-![Model 1 Training Curves](model1_accuracy.png)
+![Model 1 Training Curves](model/model1_accuracy.png)
 *Baseline — clear overfitting, validation frozen at ~55%*
 
 ![Improved Model Training Curves](model_accuracy.png)
